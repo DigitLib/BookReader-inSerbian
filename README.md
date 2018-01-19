@@ -1,5 +1,5 @@
 # BookReader-inSerbian
-Fork of аrchive.org BookReader https://github.com/internetarchive/bookreader translated in Serbian Cyrillic<br>
+Fork of аrchive.org BookReader https://github.com/internetarchive/bookreader/tree/Release30 translated in Serbian Cyrillic<br>
 
 Easily implement a BookReader to your digital library with a Demo.<br>
 
